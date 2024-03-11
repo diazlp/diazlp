@@ -9,12 +9,12 @@
 
 - 📫 How to reach me **diazlinggaputra@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1izj-KmvgWp4i41DeKkdOnkA7XUiZnvN9/view)
+- 📄 Read my resume [here](https://drive.google.com/file/d/1izj-KmvgWp4i41DeKkdOnkA7XUiZnvN9/view)
 
 <h3 align="left">Connect with me:</h3>
 <p style="display: flex; gap: 15px; justify-content: flex-start">
+ <a href="https://linkedin.com/in/diazlinggaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diazlinggaputra" height="28" width="33" /></a>
 <a href="https://twitter.com/diazlp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diazlp" height="28" width="33" /></a>
-<a href="https://linkedin.com/in/diazlinggaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diazlinggaputra" height="28" width="33" /></a>
 <a href="https://instagram.com/diazlp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diazlp" height="28" width="33" /></a>
 </p>
 

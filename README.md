@@ -1,37 +1,71 @@
-<h1 align="center">Hello 👋, I'm Diaz Linggaputra</h1>
-<h3 align="center">A dedicated ideas transformer into realities</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diazlp&label=Profile%20views&color=0e75b6&style=flat" alt="diazlp" /> </p>
+  <!-- Header / Typing SVG -->
+  <h1>Hi 👋, I'm Diaz Linggaputra</h1>
+  
+  <a href="https://diazlinggaputra.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=520&lines=Full-Stack+Engineer;Transforming+Ideas+into+Reality;Next.js+%7C+TypeScript+%7C+Node.js;Building+Scalable+%26+Modern+Web+Apps" alt="Typing SVG" />
+  </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diazlp" alt="diazlp" /></a> </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=diazlp&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
 
-- 👨‍💻 All of my projects are available at [diazlinggaputra.vercel.app](https://diazlinggaputra.vercel.app/)
+  <!-- Connect & Social Badges -->
+  <p>
+    <a href="https://diazlinggaputra.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/diazlinggaputra" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:diazlinggaputra@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://drive.google.com/file/d/1izj-KmvgWp4i41DeKkdOnkA7XUiZnvN9/view" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+    </a>
+    <a href="https://twitter.com/diazlp" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
 
-- 📫 How to reach me **diazlinggaputra@gmail.com**
+</div>
 
-- 📄 Read my resume [here](https://drive.google.com/file/d/1izj-KmvgWp4i41DeKkdOnkA7XUiZnvN9/view)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p style="display: flex; gap: 15px; justify-content: flex-start">
- <a href="https://linkedin.com/in/diazlinggaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diazlinggaputra" height="28" width="33" /></a>
-<a href="https://twitter.com/diazlp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diazlp" height="28" width="33" /></a>
-<a href="https://instagram.com/diazlp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diazlp" height="28" width="33" /></a>
-</p>
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p style="display: flex; gap: 15px; justify-content: flex-start"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="33" height="33"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="33" height="33"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="33" height="33"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="33" height="33"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="33" height="33"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="33" height="33"/>
-</a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="33" height="33"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="33" height="33"/> </a>  </p>
+- 🌐 Explore my projects & live demos at [**diazlinggaputra.vercel.app**](https://diazlinggaputra.vercel.app/)
+- 📄 View my professional experience and credentials in my [**Resume**](https://drive.google.com/file/d/1izj-KmvgWp4i41DeKkdOnkA7XUiZnvN9/view)
+- 💬 Ask me about **Full-Stack Development, Next.js, TypeScript & System Design**
+- 📫 Reach out directly via [**diazlinggaputra@gmail.com**](mailto:diazlinggaputra@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diazlp&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="diazlp" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diazlp&show_icons=true&locale=en" alt="diazlp" /></p>
+### 🛠️ Tech Stack & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diazlp&" alt="diazlp" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,git,github,vscode,postman&perline=6" alt="Tech Stack" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/diazlp">
+    <img src="https://github-readme-stats.vercel.app/api?username=diazlp&show_icons=true&theme=tokyonight&hide_border=true&title_color=0e75b6&icon_color=0e75b6&count_private=true" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diazlp&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6&count_private=true" height="165" alt="Top Languages" />
+  </a>
+  <br/>
+  <a href="https://github.com/diazlp">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diazlp&theme=tokyonight&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" height="165" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Crafted with passion by <a href="https://github.com/diazlp">Diaz Linggaputra</a> • © 2026</sub>
+</div>
